@@ -18,7 +18,6 @@ public class HeadersTest extends TestBase {
 
     @Test
     @DisplayName("Test verifies if page title matches with expected - Siiportal ")
-    @Tag("Siiportal")
     public void shouldCheckPageTitle_1() {
         logger.debug(">>>> Start test <<<<");
         String ActualTitle = driver.getTitle();
