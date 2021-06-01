@@ -1,0 +1,14 @@
+2021-05-31 15:19:56.341 [main] DEBUG configration.EnvironmentProperty ->>>>> Environments name: env_name
+2021-05-31 15:19:56.773 [main] DEBUG i.g.b.wdm.cache.ResolutionCache -Resolution chrome=90 in cache (valid until 15:49:15 31/05/2021 CEST)
+2021-05-31 15:19:56.789 [main] DEBUG i.g.b.wdm.cache.ResolutionCache -Resolution chrome90=90.0.4430.24 in cache (valid until 08:30:35 01/06/2021 CEST)
+2021-05-31 15:19:56.789 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+2021-05-31 15:19:56.789 [main] TRACE i.g.b.wdm.cache.CacheHandler -Checking if chromedriver exists in cache
+2021-05-31 15:19:56.789 [main] TRACE i.g.b.wdm.cache.CacheHandler -Filter cache by chromedriver -- input list [C:\Users\stargosz\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe, C:\Users\stargosz\.cache\selenium\resolution.properties] -- output list [C:\Users\stargosz\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] 
+2021-05-31 15:19:56.789 [main] TRACE i.g.b.wdm.cache.CacheHandler -Filter cache by 90.0.4430.24 -- input list [C:\Users\stargosz\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] -- output list [C:\Users\stargosz\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] 
+2021-05-31 15:19:56.789 [main] TRACE i.g.b.wdm.cache.CacheHandler -Filter cache by WIN -- input list [C:\Users\stargosz\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] -- output list [C:\Users\stargosz\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] 
+2021-05-31 15:19:56.789 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager -Driver chromedriver 90.0.4430.24 found in cache
+2021-05-31 15:19:56.789 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -Exporting webdriver.chrome.driver as C:\Users\stargosz\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+2021-05-31 15:19:59.592 [main] INFO  TestBase.class -Driver initialized
+2021-05-31 15:19:59.628 [main] INFO  TestBase.class -Implicit wait set for 15 seconds
+2021-05-31 15:19:59.632 [main] DEBUG HeadersTest.class ->>>> Start test <<<<
+2021-05-31 15:19:59.789 [main] INFO  TestBase.class ->>>> Test finished <<<<

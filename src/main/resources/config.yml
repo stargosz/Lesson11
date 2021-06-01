@@ -1,0 +1,14 @@
+browser: chrome
+browserAttachscreenshot: true
+browserHeadless: true
+browserImplicitTimeout: 15
+browserWebelementTimeout: 10
+environments:
+    -   env_name: int
+        appUrl: https://www.selenium.dev/
+        eTitle: SeleniumHQ Browser Automation
+#    -   env_name: test
+#        appUrl: https://www.filmweb.pl/
+#        eTitle: Filmweb - filmy takie jak Ty!
+
+
